@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Yusuf Can Mercan 👋
 
 <!--
 Here are some ideas to get you started:
