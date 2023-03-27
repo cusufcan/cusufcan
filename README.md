@@ -8,7 +8,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <img src="https://img.icons8.com/color/48/null/html-5--v2.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/48/null/css3.png"/>
   <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/dart.png"/>
