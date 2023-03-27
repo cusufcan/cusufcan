@@ -1,4 +1,4 @@
-### Hi there, I'm Yusuf Can Mercan 👋
+<h1> Hey there, I'm Yusuf Can Mercan 👋 </h1>
 
 <!--
 Here are some ideas to get you started:
