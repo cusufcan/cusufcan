@@ -5,7 +5,13 @@
 - 💬 I'm looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: Did you know? You can make my day with giving ⭐ to my Repositories.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
+<p align="left"> 
+<img src="https://img.icons8.com/fluency/48/null/flutter.png"/>
+  <img src="https://img.icons8.com/color/48/null/dart.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png"/>
+</p>
+<h3 align="left">Tools:</h3>
 <p align="left"> 
 <img src="https://img.icons8.com/fluency/48/null/flutter.png"/>
   <img src="https://img.icons8.com/color/48/null/dart.png"/>
