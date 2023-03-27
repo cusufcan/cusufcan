@@ -7,11 +7,11 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-<img src="https://img.icons8.com/fluency/48/null/flutter.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/flutter.png"/>
   <img src="https://img.icons8.com/color/48/null/dart.png"/>
   <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png"/>
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-<img src="https://img.icons8.com/fluency/48/null/flutter.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/flutter.png"/>
 </p>
