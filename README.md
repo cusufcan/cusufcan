@@ -5,14 +5,14 @@
 - 💬 I'm looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: Did you know? You can make my day with giving ⭐ to my Repositories.
 
-☕ &nbsp;**Languages:**
+☕ <h3>Languages:</h3>
 <p align="left">
   <img src="https://img.icons8.com/color/48/null/html-5--v2.png"/>
   <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/dart.png"/>
 </p>
-☕ &nbsp;**Tools:**
+☕ <h3>Tools:</h3>
 <p align="left">
   <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/ios/50/22C3E6/unity.png"/>
