@@ -20,7 +20,7 @@
   <img src="https://img.icons8.com/fluency/48/null/flutter.png"/>
 </p>
 
-🔗 &nbsp;**Contact:**
+<h3>🔗 Tools:</h3>
 <p align="left">
 <a href="https://twitter.com/cusufcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href=https://www.linkedin.com/in/yusuf-can-mercan-06ab96256/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
