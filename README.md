@@ -7,15 +7,15 @@
 
 <h3>☕ Languages:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
-  <img src="https://img.icons8.com/color/48/null/dart.png"/>
+  <img src="https://img.icons8.com/color/48/null/dart.png" alt="Dart"/>
+  <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png" alt="C#"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
 </p>
 <h3>🔧 Tools:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/22C3E6/unity.png"/>
-  <img src="https://img.icons8.com/fluency/48/null/android-studio--v2.png"/>
-  <img src="https://img.icons8.com/fluency/48/null/flutter.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/flutter.png" alt="Flutter"/>
+  <img src="https://img.icons8.com/ios/50/22C3E6/unity.png" alt="Unity"/>
+  <img src="https://img.icons8.com/fluency/48/null/android-studio--v2.png" alt="Android Studio"/>
 </p>
 
 <h3>🔗 Contact:</h3>
