@@ -9,6 +9,7 @@
 <p align="left">
   <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
   <img src="https://img.icons8.com/color/48/null/dart.png"/>
 </p>
 <h3>🔧 Tools:</h3>
