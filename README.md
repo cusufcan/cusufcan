@@ -8,16 +8,16 @@
 <h3>☕ Languages I am interested in:</h3>
 <p align="left">
   <img src="https://img.icons8.com/color/48/null/dart.png" alt="Dart"/>
-  <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png" alt="C#"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/swift.png" alt="Swift"/>
+  <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png" alt="C#"/>
 </p>
 <h3>🔧 Tools I am interested in:</h3>
 <p align="left">
   <img src="https://img.icons8.com/fluency/48/null/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/ios/50/22C3E6/unity.png" alt="Unity"/>
   <img src="https://img.icons8.com/fluency/48/null/android-studio--v2.png" alt="Android Studio"/>
   <img src="https://img.icons8.com/color/48/xcode.png" alt="XCode"/>
+  <img src="https://img.icons8.com/ios/50/22C3E6/unity.png" alt="Unity"/>
 </p>
 
 <h3>🔗 Contact:</h3>
