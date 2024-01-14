@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://profile-counter.glitch.me/cusufcan/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cusufcan.cusufcan&"  />
 </div>
 
 ###
