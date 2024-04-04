@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">-🌱 I’m currently learning Android Development with Flutter and Dart.<br>-🎮 I have worked with Unity before. I like to make games but nowadays I only use Unity as a hobby.<br>-💬 I'm looking forward to contribute to Open Source Projects.<br>-⚡ Fun fact: Did you know? You can make my day with giving ⭐ to my Repositories.</h3>
+<h3 align="left">-🌱 I’m currently learning Android Development with Java and Kotlin.<br>-📱 I have been working with Flutter and Dart for a year and creating projects.<br>-🎮 I have worked with Unity before. I like to make games but nowadays I only use Unity as a hobby.<br>-💬 I'm looking forward to contribute to Open Source Projects.<br>-⚡ Fun fact: Did you know? You can make my day with giving ⭐ to my Repositories.</h3>
 
 ###
 
