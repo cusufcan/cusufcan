@@ -1,7 +1,3 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cusufcan.cusufcan&"  />
-</div>
-
 ###
 
 <h1 align="left">Hey there, I'm Yusuf Can Mercan 👋</h1>
