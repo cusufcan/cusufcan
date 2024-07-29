@@ -8,7 +8,10 @@
 
 ###
 
-<h3 align="left">-🌱 I’m currently learning Android Development with Kotlin.<br>-📱 I have been working with Flutter and Dart for a year and creating projects.<br>-💬 I'm looking forward to contribute to Open Source Projects.<br>-⚡ Fun fact: Did you know? You can make my day with giving ⭐ to my Repositories.</h3>
+<h3 align="left">
+  -🌱 I’m currently learning Android Development with Kotlin.<br>
+  -📱 I have been working with Flutter and Dart for a year and creating projects.<br>
+</h3>
 
 ###
 
