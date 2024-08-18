@@ -1,6 +1,6 @@
 ###
 
-<h1 align="left">Hey there, I'm Yusuf Can Mercan 👋</h1>
+<h1 align="left">I'm Yusuf Can Mercan 👋</h1>
 
 ###
 
