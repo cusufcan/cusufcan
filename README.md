@@ -10,7 +10,7 @@
 
 <h3 align="left">
   - Currently exploring Android Development with Kotlin.<br>
-  - Proficient in Flutter and Dart with one year of experience.<br>
+  - Flutter and Dart with one year of experience.<br>
 </h3>
 
 ###
