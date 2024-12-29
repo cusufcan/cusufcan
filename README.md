@@ -41,10 +41,3 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cusufcan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-### 📞 Contact
-###
-- 📧 Email: [yusufcanmercan.info@gmail.com](mailto:yusufcanmercan.info@gmail.com)
-- 💼 LinkedIn: [@cusufcan](https://linkedin.com/in/cusufcan)
-- 📝 Medium: [@cusufcan](https://medium.com/@cusufcan)
-
