@@ -6,16 +6,9 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-###
+- Currently exploring Android Development with Kotlin.
 
-<h3 align="left">
-  - Currently exploring Android Development with Kotlin.<br>
-</h3>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
+### 🛠 Language & Tools
 ###
 
 <div align="left">
@@ -43,12 +36,15 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
-
+### 🔥 My Stats
 ###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cusufcan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+### 📞 Contact
 ###
+- 📧 Email: [yusufcanmercan.info@gmail.com](mailto:yusufcanmercan.info@gmail.com)
+- 💼 LinkedIn: [@cusufcan](https://linkedin.com/in/cusufcan)
+- 📝 Medium: [@cusufcan](https://medium.com/@cusufcan)
+
