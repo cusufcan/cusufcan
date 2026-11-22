@@ -4,4 +4,6 @@ Computer Engineer and Android developer building native apps with **Kotlin** and
 
 ## Stack
 
-Kotlin · Jetpack Compose · Room · Hilt · Coroutines & Flow · DataStore · Firebase · JUnit · GitHub Actions
+**Android:** Kotlin · Jetpack Compose · Room · Hilt · Coroutines & Flow · DataStore · JUnit
+
+**General:** Firebase · Git · GitHub Actions
