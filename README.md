@@ -1,39 +1,27 @@
-###
+# Hi, I'm Yusuf 👋
 
-<h1 align="left">I'm Yusuf Can Mercan 👋</h1>
+Computer Engineer and Android developer building native apps with **Kotlin** and **Jetpack Compose**.
+I maintain two apps on Google Play and I'm looking for a junior Android role in İzmir.
 
-###
+## Featured
 
-<h3 align="left">👩‍💻 About Me</h3>
+- **[Kilo Takibi](https://github.com/cusufcan/kilo-takibi-android)**: a private weight tracker.
+  Compose, MVVM with unidirectional data flow, Room, Hilt, Coroutines/Flow, unit and UI tests,
+  GitHub Actions CI. [Google Play](https://play.google.com/store/apps/details?id=com.yusufcanmercan.weight_track_app)
+- **[TOGÜ Yemekhane](https://github.com/cusufcan/TOGUYemekhane)**: weekly cafeteria menu for my
+  university, with offline access to the last saved week.
+  [Google Play](https://play.google.com/store/apps/details?id=com.mercan.app)
+- **[TekeTek](https://github.com/cusufcan/TekeTek)**: debate practice app with an AI opponent
+  (Gemini API) that ends each debate with feedback on your strengths and weak points.
+  Built for the BTK Akademi AI Hackathon 2025.
+- **[MercanKotlinDoc](https://github.com/cusufcan/MercanKotlinDoc)**: Turkish translation of the
+  official Kotlin documentation.
 
-- Currently exploring Android Development with Kotlin.
+## Stack
 
-### 🛠 Language & Tools
-###
+Kotlin · Jetpack Compose · Room · Hilt · Coroutines & Flow · DataStore · Firebase · JUnit · GitHub Actions
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img width="12" />
-</div>
+## Contact
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"  />
-</div>
-
-###
+- LinkedIn: [linkedin.com/in/cusufcan](https://linkedin.com/in/cusufcan)
+- Email: [yusufcanmercan.info@gmail.com](mailto:yusufcanmercan.info@gmail.com)
